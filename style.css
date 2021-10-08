@@ -1,0 +1,24 @@
+#heading {
+    color: rgb(82, 255, 2);
+    font-family: 'Allison';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+body {
+    background-image: linear-gradient(to right top, #ff1e00, #9cf000, #a00af7, #06ffac, #0083ee);
+    text-align: center;
+}
+p{
+    font-family: Dancing Script;
+    font-size: 50px;
+}
+
+#quotes{
+    font-family: Yeon Sung;
+}
+#hind{
+font-family: Kalam;
+}
+
